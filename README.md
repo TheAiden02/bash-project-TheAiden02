@@ -6,9 +6,9 @@
 - [x] This task is complete.
 ```
 
-- [ ] Described script purpose.
-- [ ] Filled out the self-evaluation.
-- [ ] Filled out the self-reflection.
+- [x] Described script purpose.
+- [x] Filled out the self-evaluation.
+- [x] Filled out the self-reflection.
 
 ## Script Purpose
 
